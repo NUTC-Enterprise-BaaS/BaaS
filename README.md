@@ -5,3 +5,6 @@ This project studies the construction of enterprise blockchain-based open source
 This repository provides enterprise blockchain developers to use the blockchain services, providing enterprise blockchain as a service platform, enabling the acceleration of the blockchain applied to the development of various application services.
 
 The authors are grateful for partial research support from the Ministry of Science and Technology, Taiwan, R.O.C.
+
+
+![](images/architecture.png)
