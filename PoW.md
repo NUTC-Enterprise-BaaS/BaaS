@@ -71,6 +71,7 @@ geth --nodiscover --networkid 777 --datadir .ethereum/ --rpc --rpcapi eth,net,we
 Create a account and unlock it.
 
 ![](./images/PoW/newAccount.png)
+
 ![](./images/PoW/unlockAccount.png)
 
 Start miner
