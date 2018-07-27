@@ -17,32 +17,41 @@ add-apt-repository -y ppa:ethereum/ethereum
 apt-get update
 apt-get install ethereum -y
 ```
-### Initialize genesis.json
+
+### Initialize genesis.json
 
 #### use puppeth create genesis.json
 
 Specify a network name
+
 ![](./images/PoW/networkname.png)
 
 Configure new genesis(enter 2)
+
 ![](./images/PoW/configure.png)
 
 Select consensus(enter 1)
+
 ![](./images/PoW/consensus.png)
 
 pre-funded balance to account(direct enter)
+
 ![](./images/PoW/prefunded.png)
 
 Specify network ID
+
 ![](./images/PoW/networkID.png)
 
 Manage existing genesis(enter 2)
+
 ![](./images/PoW/manager.png)
 
 Export genesis configuration(enter 2)
+
 ![](./images/PoW/export.png)
 
 Specify genesis file name
+
 ![](./images/PoW/filename.png)
 
 Use "control + C" leave it.
@@ -60,6 +69,7 @@ geth --datadir .ethereum/ init imac.json
 geth --nodiscover --networkid 777 --datadir .ethereum/ --rpc --rpcapi eth,net,web3 --rpcaddr=0.0.0.0 console
 ```
 Create a account and unlock it.
+
 ![](./images/PoW/newAccount.png)
 ![](./images/PoW/unlockAccount.png)
 
