@@ -14,7 +14,7 @@ The authors are grateful for partial research support from the Ministry of Scien
 Build Ethereum base on [PoW](./PoW.md).
 
 Build Ethereum base on [PoA](./PoA.md).
-# Other Information
+# Other Information
 [Ethereum](https://github.com/ethereum/go-ethereum)
 
 [OpenStack](https://github.com/openstack)
