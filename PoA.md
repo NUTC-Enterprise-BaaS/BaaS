@@ -86,6 +86,7 @@ Unlock account
 ![](./images/PoA/unlockAccount.png)
 
 Start miner
+
 ![](./images/PoA/startminer.png)
 
 ### Dashboard
