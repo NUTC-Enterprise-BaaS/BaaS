@@ -60,7 +60,7 @@ Now copy this genesis.json to all Ethereum node.
 
 ### Use geth command initialize Ethereum with genesis.json
 ```
-geth --datadir .ethereum/ init imac.json 
+geth --datadir .ethereum/ init genesis.json 
 ```
 ![](./images/PoW/initEthereum.png)
 
